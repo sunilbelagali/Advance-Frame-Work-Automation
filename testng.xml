@@ -10,7 +10,7 @@
   
     <classes>
    
-      <class name="com.smartcare.testcases.CreateNewUser"/>
+      <class name="com.smartcare.testcases.LoginToApplication"/>
     </classes>
     
   </test> <!-- Test -->
